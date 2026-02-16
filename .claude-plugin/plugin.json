@@ -1,0 +1,10 @@
+{
+  "name": "claude-woow",
+  "version": "1.0.0",
+  "description": "Custom agents and skills for Claude Code",
+  "author": {
+    "name": "Nazar Kalituk"
+  },
+  "license": "MIT",
+  "keywords": ["agents", "business-analyst", "skills"]
+}
