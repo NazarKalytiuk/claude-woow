@@ -1,6 +1,6 @@
 {
   "name": "claude-woow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Custom agents and skills for Claude Code",
   "author": {
     "name": "Nazar Kalituk"
