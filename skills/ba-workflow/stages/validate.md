@@ -1,9 +1,4 @@
----
-name: validate-requirements
-description: "Use before starting implementation to verify requirements are complete, correct, and testable. Use when user says 'are we ready to build', 'review the requirements', 'check if anything is missing', or before transitioning from planning to coding."
----
-
-# Validate Requirements
+# Stage: Validate Requirements
 
 ## Overview
 

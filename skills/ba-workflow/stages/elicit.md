@@ -1,9 +1,4 @@
----
-name: elicit-requirements
-description: "Use after discover-and-define to break a vision/scope into concrete user stories with acceptance criteria. Use when user says 'what should we build', 'break this down', 'create stories', or 'what are the requirements'. Produces implementation-ready specifications."
----
-
-# Elicit Requirements
+# Stage: Elicit Requirements
 
 ## Overview
 
@@ -12,12 +7,12 @@ Transform a vision document into concrete, testable, prioritized user stories wi
 **Core principle:** Every requirement must be traceable to a business objective, testable by a developer, and understood by the user.
 
 <HARD-GATE>
-Do NOT write requirements without a vision/scope document or at minimum a clear problem statement. If none exists, invoke `claude-woow:discover-and-define` first.
+Do NOT write requirements without a vision/scope document or at minimum a clear problem statement. If none exists, run the `discover` stage first.
 </HARD-GATE>
 
 ## When to Use
 
-- After `discover-and-define` produces a vision document
+- After the `discover` stage produces a vision document
 - When you have a scope but no implementation-ready stories
 - When requirements are vague: "it should be fast", "users can manage things"
 - When user says "break this down into tasks"

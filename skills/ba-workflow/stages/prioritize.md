@@ -1,9 +1,4 @@
----
-name: prioritize-scope
-description: "Use when scope feels too large, priorities are unclear, features are competing, or you need to decide what to build first. Use when user says 'what should we do first', 'too many features', 'scope is too big', 'help me prioritize'. Produces a ranked feature list with clear rationale."
----
-
-# Prioritize Scope
+# Stage: Prioritize Scope
 
 ## Overview
 

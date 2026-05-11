@@ -1,9 +1,4 @@
----
-name: analyze-change-impact
-description: "Use when a requirement, feature, or scope change is proposed mid-project. Use when user says 'what if we change', 'can we add', 'I want to modify', 'what would it take to'. Produces impact analysis with affected components, effort estimate, and recommendation."
----
-
-# Analyze Change Impact
+# Stage: Analyze Change Impact
 
 ## Overview
 

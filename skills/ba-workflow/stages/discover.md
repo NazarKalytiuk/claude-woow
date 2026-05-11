@@ -1,9 +1,4 @@
----
-name: discover-and-define
-description: "Use BEFORE any project or feature work when requirements are unclear, when starting a new personal project, or when the user says 'I have an idea' or 'I want to build something'. Guides structured discovery from vague idea to clear vision, scope, and success metrics."
----
-
-# Discover and Define
+# Stage: Discover and Define
 
 ## Overview
 
@@ -213,7 +208,7 @@ Present to user for approval. Revise if needed.
 ## After the Vision Document
 
 **Transition to requirements:**
-- Invoke `claude-woow:elicit-requirements` skill to break scope into user stories with acceptance criteria
+- Invoke the `elicit` stage of `claude-woow:ba-workflow` to break scope into user stories with acceptance criteria
 - The vision doc becomes your north star — every requirement must trace back to it
 
 ## Key Principles
